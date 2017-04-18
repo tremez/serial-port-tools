@@ -1,0 +1,15 @@
+{
+  "name": "serial-port-tools",
+  "version": "0.0.1",
+  "description": "Set of tools to work with serial port",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "Serial Port, COM Port, SerialPort"
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "serialport": "^4.0.7"
+  }
+}
